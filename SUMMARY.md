@@ -9,4 +9,5 @@
 * [Часть 6. Планы, которым не суждено сбыться](chast-6-plani-kotorim-ne-suzhdeno-sbitsya.md)
 * [Часть 6. Иски, против Санжара Алтаева и его компаний](chast-h-iski-protiv-sanzhara-altaeva-i-ego-kompanii.md)
 * [Часть 7. Иски против Балабековой и благотворительного фонда](chast-u-iski-protiv-balabekovoi-i-blagotvoritelnogo-fonda.md)
+* [Источники](istochniki.md)
 
