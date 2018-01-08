@@ -1,4 +1,4 @@
-# Summary
+# Оглавление
 
 * [Предисловие](README.md)
 * [Часть 1. Кто такой Санжар Алтаев?](chapter1.md)
@@ -10,4 +10,6 @@
 * [Часть 6. Иски, против Санжара Алтаева и его компаний](chast-h-iski-protiv-sanzhara-altaeva-i-ego-kompanii.md)
 * [Часть 7. Иски против Балабековой и благотворительного фонда](chast-u-iski-protiv-balabekovoi-i-blagotvoritelnogo-fonda.md)
 * [Источники](istochniki.md)
+
+
 
