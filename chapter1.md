@@ -1,3 +1,4 @@
-# First Chapter
+# Часть 1. Кто такой Санжар Алтаев?
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Санжар Алтаев был и остается личностью известной. Даже если спросить у человека, далекого от информационных технологий, слышал ли он о розыгрыше электравтомобиля TESLA в Казахстане, то ответ в половине случаев будет  утвердительный.
+
