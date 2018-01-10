@@ -1,8 +1,8 @@
 # Источники
 
-[Сайт профессорско-преподавательского состава КазНУ им. Аль-Фараби](https://www.gitbook.com/book/sanzhargate/sanzhargate/edit#)
+[Сайт профессорско-преподавательского состава КазНУ им. Аль-Фараби](http://pps.kaznu.kz/ru/Main/Personal/92/359/2023/Алтаев%20Аскар%20Шаукатович)
 
-[Санжар Алтаев, аналитический интернет-журнал Vласть](https://www.gitbook.com/book/sanzhargate/sanzhargate/edit#)
+[Санжар Алтаев, аналитический интернет-журнал Vласть](https://vlast.kz/avtory/sanzhar_altaev-5576.html)
 
 [Благотворительность, меняющая систему здравоохранения, Forbes](https://forbes.kz/life/blagotvoritelnost_menyayuschaya_sistemu_zdravoohraneniya)
 
