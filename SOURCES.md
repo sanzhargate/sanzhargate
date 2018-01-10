@@ -26,5 +26,5 @@
 
 [Tesla: как живется электромобилю в нефтяной стране?](https://camonitor.kz/18171-tesla-kak-zhivetsya-elektromobilyu-v-neftyanoy-strane.html)
 
-
+[ALMACLOUD в каталоге IT.KZ](http://catalog.itk.kz/index.php/%22AlmaCloud%22)
 
