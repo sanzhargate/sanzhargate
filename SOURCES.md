@@ -1,6 +1,6 @@
 # Источники
 
-[Сайт профессорско-преподавательского состава КазНУ им. Аль-Фараби](http://pps.kaznu.kz/ru/Main/Personal/92/359/2023/Алтаев%20Аскар%20Шаукатович)
+[Сайт профессорско-преподавательского состава КазНУ им. Аль-Фараби](http://pps.kaznu.kz/ru/Main/Personal/92/359/2023/Алтаев Аскар Шаукатович)
 
 [Санжар Алтаев, аналитический интернет-журнал Vласть](https://vlast.kz/avtory/sanzhar_altaev-5576.html)
 
@@ -21,4 +21,6 @@
 [Easyphone.kz на play.google.com](https://play.google.com/store/apps/details?id=org.arna.easyphone)
 
 [«Казахтелеком» запускает новый сервис «Приемная 24»](https://telecom.kz/news/view/15307)
+
+[Пост Дениса Сухачева об ALMACLOUD](https://www.facebook.com/denis.suhachev/posts/1600248033370766)
 
