@@ -24,3 +24,7 @@
 
 [Пост Дениса Сухачева об ALMACLOUD](https://www.facebook.com/denis.suhachev/posts/1600248033370766)
 
+[Tesla: как живется электромобилю в нефтяной стране?](https://camonitor.kz/18171-tesla-kak-zhivetsya-elektromobilyu-v-neftyanoy-strane.html)
+
+
+
